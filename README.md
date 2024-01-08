@@ -1,4 +1,5 @@
 To start this project 
 ----------------------
+1. Paste the following commands to start the project.
 
-Paste npx tailwindcss -i ./src/input.css -o ./dist/styles.css --watch
+npx tailwindcss -i ./src/input.css -o ./dist/styles.css --watch
